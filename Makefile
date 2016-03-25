@@ -6,7 +6,7 @@
 #PDFVIEWER=xpdf # lightweight
 PDFVIEWER=xdg-open # Default pdf viewer - GNU/Linux
 #PDFVIEWER=open # Default pdf viewer - Mac OS
-MAIN_NAME=beamer-template
+MAIN_NAME=Main
 PDF_NAME=$(MAIN_NAME).pdf
 
 # You want latexmk to *always* run, because make does not have all the info.
